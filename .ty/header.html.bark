@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width">
+<style type="text/css">body,html {background:#fff;font-family:"Bitstream Vera Sans","Lucida Grande","Lucida Sans Unicode",Lucidux,Verdana,Lucida,sans-serif;}
+table {table-layout: fixed;}
+tr:nth-child(even) {background:#f4f4f4;}
+th,td {padding:0.1em 0.5em;}
+th {text-align:left;font-weight:bold;background:#eee;border-bottom:1px solid #aaa;}
+#list {border:1px solid #aaa;width:100%;}
+a {color:#a33;}
+a:hover {color:#e33;}
+.link {white-space: nowrap;text-overflow: '>';overflow: hidden;}
+</style>
+</head>
+<!-- ---------------------------------------------------------------------------------------------------- -->
+<body bgcolor="#d0d0d0">
+<hr style='background-color:WhiteSmoke; height:1px; border:none;'' />
+<!--p  class="ttpp" style="text-align: center"><a align="center";href="http://www.test.com">十年磨一剑</a> </p-->
+<p  class="ttpp"; style="text-align: center"><a href="http://www.baidu.com">·☯·☞十年磨一剑☜·☯·</a> </p>
+<hr style='background-color:WhiteSmoke; height:2px; border:none;'' />
+<hr style='border: none;height: 6px;background-color:WhiteSmoke; '/>
+<head>
+<style type="text/css">
+.ttpp{ font-size:30px;}
+.aapp{font-size:26px;}
+h1 {color: blue}
+h2 {color: SlateGray }
+</style>
+</head>
+<body>
+</body>
+<h2 style="background-color: WhiteSmoke ;">Directory:
